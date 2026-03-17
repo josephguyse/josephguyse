@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hello👋 I'm Joseph Guyse
+
+San Diego State graduate based in San Diego, CA. I have built data analytics 
+projects focused on real estate, economics, and sports. I'm seeking entry-level 
+data analyst roles where I can apply analytical and visualization skills to real 
+business problems. 
+
+**Tools:** Python | SQL | Excel | Tableau | R
+
+**Currently:** Completing Google Data Analytics Certificate
+
+📊 [U.S. Housing Affordability Dashboard](https://public.tableau.com/views/USHousingAffordabilityAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 <!--
 **josephguyse/josephguyse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
